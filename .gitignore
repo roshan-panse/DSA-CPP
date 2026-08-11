@@ -13,3 +13,4 @@
 
 # Crash dumps and logs
 *.log
+cook.cpp
