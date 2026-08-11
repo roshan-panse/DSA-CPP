@@ -1,0 +1,15 @@
+# VS Code configuration folder (Highly recommended to ignore for DSA)
+.vscode/
+
+# Compiled C++ Executables (Windows binaries)
+*.exe
+*.out
+*.app
+
+# Object files and temporary build artifacts
+*.o
+*.obj
+*.gch
+
+# Crash dumps and logs
+*.log
