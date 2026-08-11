@@ -13,4 +13,7 @@
 
 # Crash dumps and logs
 *.log
-cook.cpp
+workspace.cpp
+input.txt
+output.txt
+run.bat
